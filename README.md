@@ -1,5 +1,4 @@
 
-![pattern](https://github.com/user-attachments/assets/3bf1230a-9261-4514-a5a8-6ac07ae4674b)
 
 # 👋 Hi, I'm Vishwat Vatsal
 🎓 I’m a **third-year student** in the **Artificial Intelligence & Machine Learning (AIML)** department.
